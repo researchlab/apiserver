@@ -1,6 +1,9 @@
 package version
 
-import "fmt"
+import (
+	"fmt"
+	"runtime"
+)
 
 //Info contains versioning information.
 
@@ -26,7 +29,7 @@ func Get() Info {
 		GitTreeState: gitTreeState,
 		BuildDate:    buildDate,
 		GoVersion:    runtime.Version(),
-		Complier:     runtime.Complier,
+		Compiler:     runtime.Compiler,
 		Platform:     fmt.Sprintf("%s/%s", runtime.GOOS, runtime.GOARCH),
 	}
 }

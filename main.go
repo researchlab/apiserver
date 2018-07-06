@@ -29,7 +29,7 @@ func main() {
 	pflag.Parse()
 	if *v {
 		_version := version.Get()
-		marshalled, err := json.MarshalIndent(&v, "", " ")
+		marshalled, err := json.MarshalIndent(&_version, "", " ")
 		if err != nil {
 			fmt.Printf("%v\n", err)
 			os.Exit(1)
