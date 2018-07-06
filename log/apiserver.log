@@ -1,0 +1,205 @@
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.159","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.264","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.370","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.474","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.579","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.684","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.789","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.894","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:40.995","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.099","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.203","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.307","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.407","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.511","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.614","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.718","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.822","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:41.924","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.029","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.133","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.238","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.339","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.442","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.546","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.650","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.754","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.855","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:42.960","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.061","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.166","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.269","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.373","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.474","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.579","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.683","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.787","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.889","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:43.989","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.089","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.194","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.299","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.404","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.508","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.608","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.710","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.814","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:44.919","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.024","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.128","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.233","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.338","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.439","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.541","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.646","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.746","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.850","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:45.953","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.055","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.161","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.266","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.369","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.473","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.575","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.677","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.780","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.881","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:46.984","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.089","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.194","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.299","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.404","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.509","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.614","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.718","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.823","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:47.924","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.027","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.130","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.233","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.336","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.439","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.543","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.645","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.748","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.852","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:48.952","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.056","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.156","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.258","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.359","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.461","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.561","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.667","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.772","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.876","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:49.980","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.082","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.182","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.286","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.390","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.494","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.597","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.702","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.806","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:50.906","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.010","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.110","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.212","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.313","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.415","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.516","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.616","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.719","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.823","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:51.923","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:52.025","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:52.130","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 15:53:52.234","file":"apiserver/main.go:32","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"ERROR","timestamp":"2018-07-02 17:30:44.028","file":"model/init.go:29","msg":"Database connection failed. Database name: ","data":{"error":"sql: unknown driver \"mysql\" (forgotten import?)"}}
+{"level":"INFO","timestamp":"2018-07-02 17:31:38.671","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:38.776","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:38.881","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:38.986","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.087","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.191","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.296","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.397","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.499","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.600","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.704","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.809","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:39.911","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:40.015","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:40.116","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:40.217","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:40.317","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:40.420","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:40.522","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:40.626","file":"apiserver/main.go:35","msg":"1111111111111111111111111111111111111111111111111111111111111111111111111111"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:53.909","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 17:31:53.909","file":"apiserver/main.go:65","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-07-02 17:31:54.913","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2018-07-02 17:33:04.364","file":"user/create.go:25","msg":"username is [mike], password is [123]"}
+{"level":"DEBUG","timestamp":"2018-07-02 17:33:56.840","file":"user/create.go:25","msg":"username is [mike], password is []"}
+{"level":"INFO","timestamp":"2018-07-02 18:54:44.662","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 18:54:44.662","file":"apiserver/main.go:54","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"INFO","timestamp":"2018-07-02 18:54:53.272","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 18:54:53.273","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 18:55:46.648","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-07-02 18:55:46.648","file":"user/create.go:23","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-07-02 18:55:46.648","file":"user/create.go:25","msg":"username is [mike], password is [123]"}
+{"level":"INFO","timestamp":"2018-07-02 18:57:37.242","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 18:57:37.243","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 18:58:24.303","file":"user/create.go:20","msg":"URL username: mike"}
+{"level":"INFO","timestamp":"2018-07-02 18:58:24.303","file":"user/create.go:23","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-07-02 18:58:24.303","file":"user/create.go:25","msg":"username is [mike], password is [111]"}
+{"level":"INFO","timestamp":"2018-07-02 20:28:09.700","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 20:28:09.701","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 20:29:24.126","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 20:29:24.127","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 20:33:03.078","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 20:33:03.079","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 20:34:27.145","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 20:34:27.147","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 20:34:31.540","file":"user/create.go:30","msg":"Error 1292: Incorrect datetime value: '0000-00-00' for column 'deletedAt' at row 1"}
+{"level":"INFO","timestamp":"2018-07-02 20:51:00.322","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 20:51:00.322","file":"apiserver/main.go:65","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-07-02 20:51:01.324","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 20:51:08.431","file":"user/create.go:30","msg":"Error 1054: Unknown column 'created_at' in 'field list'"}
+{"level":"INFO","timestamp":"2018-07-02 20:52:55.242","file":"user/create.go:30","msg":"Error 1146: Table 'db_apiserver.tb_users' doesn't exist"}
+{"level":"INFO","timestamp":"2018-07-02 20:57:51.812","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 20:57:51.813","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 20:59:19.722","file":"user/update.go:18","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-07-02 21:01:08.427","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 21:01:08.428","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 21:01:13.575","file":"user/update.go:18","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-07-02 21:01:13.656","file":"user/update.go:40","msg":"Error 1292: Incorrect datetime value: '0000-00-00' for column 'created_at' at row 1"}
+{"level":"INFO","timestamp":"2018-07-02 21:06:08.073","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-02 21:06:08.074","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-02 21:06:11.922","file":"user/update.go:18","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-07-03 08:44:28.124","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-03 08:44:28.125","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-03 08:44:51.257","file":"middleware/logging.go:83","msg":"4.065228ms    | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-07-03 08:45:37.831","file":"middleware/logging.go:83","msg":"4.193562ms    | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-07-04 10:11:10.909","file":"config/config.go:53","msg":"Config file changed: /Users/lihong/workbench/dev/src/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-07-06 06:58:11.242","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-06 06:58:11.243","file":"apiserver/main.go:65","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-07-06 06:58:12.248","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-06 06:59:08.260","file":"middleware/logging.go:84","msg":"100.578987ms  | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-07-06 07:00:05.131","file":"middleware/logging.go:84","msg":"89.082µs      | 127.0.0.1    | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2018-07-06 07:01:10.706","file":"middleware/logging.go:84","msg":"79.785349ms   | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-07-06 07:01:53.020","file":"middleware/logging.go:84","msg":"75.889325ms   | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-07-06 07:15:38.252","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-06 07:15:38.252","file":"apiserver/main.go:58","msg":"Start to listening the incoming requests on https address: 8081"}
+{"level":"INFO","timestamp":"2018-07-06 07:15:38.252","file":"apiserver/main.go:59","msg":"listen tcp: address 8081: missing port in address"}
+{"level":"INFO","timestamp":"2018-07-06 07:15:38.253","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-06 07:16:37.235","file":"middleware/logging.go:84","msg":"5.168992ms    | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-07-06 07:17:30.971","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-06 07:17:30.971","file":"apiserver/main.go:58","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-07-06 07:17:30.972","file":"apiserver/main.go:59","msg":"open conf/serser.crt: no such file or directory"}
+{"level":"INFO","timestamp":"2018-07-06 07:17:30.972","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-06 07:18:17.065","file":"apiserver/main.go:62","msg":"Start to listening the incoming requests on http address :8080"}
+{"level":"INFO","timestamp":"2018-07-06 07:18:17.065","file":"apiserver/main.go:58","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-07-06 07:18:17.066","file":"apiserver/main.go:51","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-07-06 07:20:09.753","file":"middleware/logging.go:84","msg":"4.98309ms     | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
